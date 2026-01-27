@@ -1,0 +1,51 @@
+BID,Title,Author,Category
+B001,Database Systems,Silberschatz,Technology
+B002,Operating Systems,Tanenbaum,Technology
+B003,Computer Networks,Kurose,Technology
+B004,Artificial Intelligence,Russell,Technology
+B005,Linear Algebra,Strang,Mathematics
+B006,Calculus,Stewart,Mathematics
+B007,Discrete Mathematics,Rosen,Mathematics
+B008,Quantum Physics,Griffiths,Science
+B009,Classical Mechanics,Goldstein,Science
+B010,Organic Chemistry,Bruice,Science
+B011,Digital Logic,Mano,Technology
+B012,Software Engineering,Sommerville,Technology
+B013,Data Mining,Han,Technology
+B014,Probability Theory,Feller,Mathematics
+B015,Statistics,Walpole,Mathematics
+B016,Electromagnetics,Sadiku,Science
+B017,Thermodynamics,Cengel,Science
+B018,Fluid Mechanics,Fox,Science
+B019,Machine Learning,Mitchell,Technology
+B020,Algorithms,CLRS,Technology
+B021,Number Theory,Burton,Mathematics
+B022,Numerical Methods,Chapra,Mathematics
+B023,Astrophysics,Carroll,Science
+B024,Modern Physics,Tipler,Science
+B025,Inorganic Chemistry,Housecroft,Science
+B026,Compiler Design,Aho,Technology
+B027,Distributed Systems,Coulouris,Technology
+B028,Cryptography,Stallings,Technology
+B029,Topology,Munkres,Mathematics
+B030,Graph Theory,West,Mathematics
+B031,Biophysics,Nelson,Science
+B032,Environmental Science,Miller,Science
+B033,Physical Chemistry,Atkins,Science
+B034,Human Computer Interaction,Preece,Technology
+B035,Computer Graphics,Foley,Technology
+B036,Game Theory,Osborne,Mathematics
+B037,Real Analysis,Rudin,Mathematics
+B038,Particle Physics,Perkins,Science
+B039,Nanotechnology,Poole,Science
+B040,Analytical Chemistry,Skoog,Science
+B041,Information Retrieval,Manning,Technology
+B042,Big Data Analytics,Marz,Technology
+B043,Complex Analysis,Brown,Mathematics
+B044,Set Theory,Halmos,Mathematics
+B045,Geophysics,Lowrie,Science
+B046,Optics,Hecht,Science
+B047,Control Systems,Ogata,Technology
+B048,Embedded Systems,Barr,Technology
+B049,Algebra,Artin,Mathematics
+B050,Biochemistry,Berg,Science
